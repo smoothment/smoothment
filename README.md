@@ -9,9 +9,8 @@
 
 <br>
 	
-<p align="center">
-  ## **About me**
-</p>
+<h2 align="center"><b>About me</b></h2>
+
 
 <br>
 

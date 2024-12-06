@@ -5,8 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hacking+enthusiast;CTF+player;Cyber+Security+Student" alt="Typing SVG" /></a>
 </p>
 
-![Uploading image.png…]()
-
+![Kali Linux Wallpaper](https://raw.githubusercontent.com/dorianpro/kaliwallpapers/master/kali-linux-wallpaper-v7.png)
 
 <br>
 

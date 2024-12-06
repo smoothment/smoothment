@@ -8,8 +8,6 @@
 
 <br>
 
-
-
 	
 ## **About me**
 
@@ -33,6 +31,7 @@
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![Bash](https://img.shields.io/badge/Bash-%23000000.svg?style=for-the-badge&logo=bash&logoColor=white)
 
 
 
@@ -54,17 +53,6 @@
 
 </p>
 
-<br>
-<br>
-
------
-
-<br>
-
-<br>
-<br>
-<br>
-
 -----
 
 <br>
@@ -75,7 +63,7 @@
 <ul>
 
 <li>
-<a href="[LinkedIn](https://www.linkedin.com/in/samuel-delgado-612163305/) " target="_blank">
+<a href="www.linkedin.com/in/rootbyte0x0" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-rootbyte0x0-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=blue" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>

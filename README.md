@@ -35,10 +35,10 @@
 - **Languages**:
     
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Bash](https://img.shields.io/badge/Bash-%23000000.svg?style=for-the-badge&logo=bash&logoColor=white)
-
+    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 
 - **Softwares and Tools**:
@@ -73,13 +73,10 @@
     <img src="https://img.shields.io/badge/linkedin-rootbyte0x0-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=blue" alt="LinkedIn" style="margin-bottom: 5px;"/>
   </a>
 </li>
-
-
 <br>
 
 <br>
 
-	
 </ul>
 </div>
 
@@ -91,10 +88,8 @@
 
 <div align='center'>
 
-
 </div>
 <br>
 <br>
 <br>
 <br>
-

@@ -69,10 +69,11 @@
 <ul>
 
 <li>
-<a href="www.linkedin.com/in/rootbyte0x0" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-rootbyte0x0-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=blue" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
+  <a href="https://www.linkedin.com/in/rootbyte0x0" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-rootbyte0x0-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=blue" alt="LinkedIn" style="margin-bottom: 5px;"/>
+  </a>
 </li>
+
 
 <br>
 

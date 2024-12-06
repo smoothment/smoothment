@@ -13,9 +13,9 @@
 
 <br>
 
-- A passionate Self-taught hacking enthusiast
-- Playing CTF's at spare time
-- Currently learning Hacking
+- A passionate self-taught hacking enthusiast.
+- Playing CTF's at spare time.
+- Currently learning hacking.
 
 <br><br>
 

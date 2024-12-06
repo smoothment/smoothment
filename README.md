@@ -8,9 +8,10 @@
 ![Kali Linux Wallpaper](https://raw.githubusercontent.com/dorianpro/kaliwallpapers/master/kali-linux-wallpaper-v7.png)
 
 <br>
-
 	
-## **About me**
+<p align="center">
+  ## **About me**
+</p>
 
 <br>
 

@@ -5,7 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hacking+enthusiast;CTF+player;Cyber+Security+Student" alt="Typing SVG" /></a>
 </p>
 
-<img src="https://i.gifer.com/758b.gif" alt="Exciting GIF" width="800"/>
+<img src="https://i.gifer.com/758b.gif" alt="Exciting GIF" width="1200"/>
 
 
 

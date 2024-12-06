@@ -75,8 +75,8 @@
 <ul>
 
 <li>
-<a href="[https://linkedin.com/in/rootbyte0x0](https://www.linkedin.com/in/samuel-delgado-612163305/)" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<a href="[LinkedIn](https://www.linkedin.com/in/samuel-delgado-612163305/) " target="_blank">
+<img src="https://img.shields.io/badge/linkedin-rootbyte0x0-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=blue" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
